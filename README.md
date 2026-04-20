@@ -37,9 +37,9 @@ The schedule below is based on the workshop program version dated 2026-04-17.
 | 13.15-14.15 | Denis Voskov | Role of Machine Learning in Subsurface Modelling |
 | 14.15-14.45 | Julia Pelzer | Stepwise Benchmarking in the Data Scarce Setting of Groundwater Heat Plume Modeling |
 | 14.45-15.15 |  | coffee break |
-| 15.15-15.40 | Bernd Flemisch | The FluidFlower and SPE11 benchmarking studies |
+| 15.15-15.40 | Bernd Flemisch | [The FluidFlower and SPE11 benchmarking studies](slides/flemisch_leiden_2026.pdf) |
 | 15.40-16.00 | Antoine Lechevallier | ML4GCS Project 2 - History matching SPE11B data |
-| 16.00-16.30 | Jakub Both | Objective comparison and hierarchical clustering of multiphase flow data |
+| 16.00-16.30 | Jakub Both | [Objective comparison and hierarchical clustering of multiphase flow data](slides/leiden_ml4gcs_both.pdf) |
 | 16.30-17.00 | Retief Lubbe | Geophysical granular flow benchmarks over frictional and bumpy surfaces |
 | 17.00-19.00 |  | welcome reception @Lorentz center |
 
