@@ -33,9 +33,9 @@ The schedule below is based on the workshop program version dated 2026-04-17.
 | 09.30-11.45 |  | registration |
 | 11.45-12.00 | Lorentz Center | opening & general organizational information |
 | 12.00-13.00 |  | lunch break |
-| 13.00-13.15 | Organizers | Welcome and Opening |
+| 13.00-13.15 | Organizers | [Welcome and Opening](slides/presentation_lorentz_orga_2026.pdf) |
 | 13.15-14.15 | Denis Voskov | [Role of Machine Learning in Subsurface Modelling](slides/26_04_ML.pdf) |
-| 14.15-14.45 | Julia Pelzer | Stepwise Benchmarking in the Data Scarce Setting of Groundwater Heat Plume Modeling |
+| 14.15-14.45 | Julia Pelzer | [Stepwise Benchmarking in the Data Scarce Setting of Groundwater Heat Plume Modeling](slides/presentation_pelzer_bmGWHPs_2026.pdf) |
 | 14.45-15.15 |  | coffee break |
 | 15.15-15.40 | Bernd Flemisch | [The FluidFlower and SPE11 benchmarking studies](slides/flemisch_leiden_2026.pdf) |
 | 15.40-16.00 | Antoine Lechevallier | ML4GCS Project 2 - History matching SPE11B data |
