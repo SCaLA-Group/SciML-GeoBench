@@ -47,9 +47,9 @@ The schedule below is based on the workshop program version dated 2026-04-17.
 
 | Time | Speaker | Session |
 | --- | --- | --- |
-| 09.00-09.30 | Denise Degen | Challenges for physics-based machine learning arising from benchmarks |
+| 09.00-09.30 | Denise Degen | [Challenges for physics-based machine learning arising from benchmarks](slides/Benchmark_Forge_PBML_Degen_presentation.pdf) |
 | 09.30-10.00 | Ahmed Elsheikh | Beyond Narrow Benchmarks: Structural Uncertainty and ML Benchmarks for Geological Carbon Storage |
-| 10.00-10.30 | Daniel Tartakovsky | Learning from Sparse Data |
+| 10.00-10.30 | Daniel Tartakovsky | [Learning from Sparse Data](slides/multifidelity_training_Tartakovsky.pdf) |
 | 10.30-11.00 |  | coffee break |
 | 11.00-12.00 | Organizers & all participants | planning of interactive sessions |
 | 12.00-13.30 |  | lunch break |
