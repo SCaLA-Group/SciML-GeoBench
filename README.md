@@ -53,7 +53,7 @@ The schedule below is based on the workshop program version dated 2026-04-17.
 | 10.30-11.00 |  | coffee break |
 | 11.00-12.00 | Organizers & all participants | planning of interactive sessions |
 | 12.00-13.30 |  | lunch break |
-| 13.30-15.30 |  | interactive session |
+| 13.30-15.30 |  | [interactive session](discussions/04-21.md) |
 | 15.30-16.00 |  | coffee break |
 | 16.00-18.00 |  | poster session |
 
