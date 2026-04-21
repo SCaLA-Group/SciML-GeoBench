@@ -54,7 +54,7 @@ The schedule below is based on the workshop program version dated 2026-04-17.
 | 11.00-12.00 | Organizers & all participants | planning of interactive sessions |
 | 12.00-13.30 |  | lunch break |
 | 13.00-14.00 | Alexander Heinlein | [Introduction to Scientific Machine Learning](slides/2026-heinlein-sciml.pdf) |
-| 13.30-15.30 |  | [interactive session](discussions/04-21.md) |
+| 14.00-15.30 |  | [interactive session](discussions/04-21.md) |
 | 15.30-16.00 |  | coffee break |
 | 16.00-18.00 |  | poster session |
 
