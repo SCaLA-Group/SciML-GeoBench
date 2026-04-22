@@ -62,7 +62,7 @@ The schedule below is based on the workshop program version dated 2026-04-17.
 
 | Time | Speaker | Session |
 | --- | --- | --- |
-| 09.00-09.30 | Rebecca Kohlhaas | Bayesian multi-model comparison as a method for evaluating benchmarks |
+| 09.00-09.30 | Rebecca Kohlhaas | [Bayesian multi-model comparison as a method for evaluating benchmarks](slides/BayesianModelComparison_benchmark_Kohlhaas.pdf) |
 | 09.30-10.00 | Saeid Sadeghnejad | Data-Driven Approaches for Subsurface Characterization from Pore to Field Scale |
 | 10.00-10.30 |  | coffee break |
 | 10.30-11.15 |  | interactive session | 
