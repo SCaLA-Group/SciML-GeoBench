@@ -80,7 +80,8 @@ The schedule below is based on the workshop program version dated 2026-04-17.
 | --- | --- | --- |
 | 09.00-10.00 | Interactive session chairs | reporting from interactive sessions |
 | 10.00-10.30 |  | coffee break |
-| 10.30-12.00 |  | interactive session |
+| 10.30-11.45 |  | interactive session |
+| 11.45-12.00 |  | Group picture |
 | 12.00-13.30 |  | lunch break |
 | 13.30-15.30 |  | interactive session |
 | 15.30-16.00 |  | coffee break |
