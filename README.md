@@ -78,7 +78,8 @@ The schedule below is based on the workshop program version dated 2026-04-17.
 
 | Time | Speaker | Session |
 | --- | --- | --- |
-| 09.00-10.00 | Interactive session chairs | reporting from interactive sessions |
+| 09.00-9.30 | Maarten de Hoop | Introduction to Foundational Models |
+| 09.30-10.00 | Interactive session chairs | reporting from interactive sessions |
 | 10.00-10.30 |  | coffee break |
 | 10.30-11.45 |  | interactive session |
 | 11.45-12.00 |  | Group picture |
