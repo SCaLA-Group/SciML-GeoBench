@@ -63,7 +63,7 @@ The schedule below is based on the workshop program version dated 2026-04-17.
 | Time | Speaker | Session |
 | --- | --- | --- |
 | 09.00-09.30 | Rebecca Kohlhaas | [Bayesian multi-model comparison as a method for evaluating benchmarks](slides/BayesianModelComparison_benchmark_Kohlhaas.pdf) |
-| 09.30-10.00 | Saeid Sadeghnejad | Data-Driven Approaches for Subsurface Characterization from Pore to Field Scale |
+| 09.30-10.00 | Saeid Sadeghnejad | [Data-Driven Approaches for Subsurface Characterization from Pore to Field Scale](slides/Sadeghnejad_ML_applications_LeidenWorkshop2.pdf) |
 | 10.00-10.30 |  | coffee break |
 | 10.30-11.15 |  | interactive session | 
 | 11.15-12.00 |  Interactive session chairs | reporting from interactive sessions |
