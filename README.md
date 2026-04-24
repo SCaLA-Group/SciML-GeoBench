@@ -95,8 +95,10 @@ The schedule below is based on the workshop program version dated 2026-04-17.
 | --- | --- | --- |
 | 09.00-10.00 | All participants | workshop report & protocol writing session |
 | 10.00-10.30 |  | coffee break |
+| 10.30-11.15 | All participants | planning and paper discussions |
 | 10.30-11.30 | Organizers & panelists | panel discussion |
-| 11.30-12.00 | Organizers | closing |
+| 11.15-11.45 | Mohammadsadegh Farhadi | [Kaggle presentation](slides/kaggle-presentation.pdf) |
+| 11.45-12.00 | Organizers | closing |
 | 12.00-13.30 |  | lunch break |
 
 Scientific organizers:
